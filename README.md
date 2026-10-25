@@ -1,9 +1,11 @@
 # Настройки Visual Studio Code
 
-**Для Windows 11.**
+**Для Windows 11 и Ubuntu:**
 
 1. Установите [Visual Studio Code](https://code.visualstudio.com/download).
-2. Установите [Git для Windows](https://git-scm.com/downloads/win).
+2. Установите Git:
+   - **Windows 11:** [Git для Windows](https://git-scm.com/downloads/win).
+   - **Ubuntu:** выполните команду `sudo apt install git`.
 3. Откройте **VS Code**.
 4. Перейдите в **Управление (⚙️) → Параметры**.
 5. В правом верхнем углу нажмите **Открыть параметры (JSON)**.
