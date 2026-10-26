@@ -11,3 +11,5 @@
 5. В правом верхнем углу нажмите **Открыть параметры (JSON)**.
 6. Скопируйте содержимое файла `settings.txt` и вставьте в `settings.json`.
 7. Сохраните изменения (**Ctrl + S**).
+8. **Для Ubuntu:**
+   - Удалите из `settings.json` строку: `"terminal.integrated.defaultProfile.windows": "Git Bash"`
